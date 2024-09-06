@@ -10,8 +10,15 @@ y^2
  
 #the excitement of the merge conflict begins
 
+
+
+ #New_branch_pull-request
+ b=a/y
+b
+
 #working on the script in a branch
 #such work, just witness this work, oh my.
 
 #changing some text in original file
+
 
